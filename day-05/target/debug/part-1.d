@@ -1,1 +1,0 @@
-/home/ykhi/projects/advent-of-code/2022/rust/day-05/target/debug/part-1: /home/ykhi/projects/advent-of-code/2022/rust/day-05/src/bin/part-1.rs /home/ykhi/projects/advent-of-code/2022/rust/day-05/src/lib.rs
